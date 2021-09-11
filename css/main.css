@@ -2158,7 +2158,10 @@ footer a:visited {
 .ss-copyright span:last-child::after {
   display: none;
 }
-
+.badge{
+  float: right;
+  margin-left: 75%;
+}
 /*TOP*/
 .ss-go-top {
   position: absolute;
