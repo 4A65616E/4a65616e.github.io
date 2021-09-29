@@ -2450,6 +2450,10 @@ fieldset[disabled] .btn-default:hover {
   color: transparent;
   background-color: #000;
 }
+.tryhackme{
+  float: left;
+  margin-top: 5rem;
+}
 .btn-primary {
   color: #001aff;
   background-color: transparent;
